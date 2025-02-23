@@ -1,0 +1,6 @@
+# Discord Bot Development
+discord.py                  # Discord API wrapper (compatible with Python 3.11)
+python-dotenv               # For managing environment variables
+requests                    # For making HTTP requests (e.g., Google Maps API)
+pynacl                      # For handling signature verification
+boto3
